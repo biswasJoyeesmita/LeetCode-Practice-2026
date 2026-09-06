@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/biswasJoyeesmita/LeetCode-Practice-2026/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/biswasJoyeesmita/LeetCode-Practice-2026/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/biswasJoyeesmita/LeetCode-Practice-2026/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/biswasJoyeesmita/LeetCode-Practice-2026/tree/master/0136-single-number) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/biswasJoyeesmita/LeetCode-Practice-2026/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/biswasJoyeesmita/LeetCode-Practice-2026/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/biswasJoyeesmita/LeetCode-Practice-2026/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
